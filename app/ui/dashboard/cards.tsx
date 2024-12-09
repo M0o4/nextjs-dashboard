@@ -1,7 +1,7 @@
 import {
   BanknotesIcon,
-  ClockIcon,
   UserGroupIcon,
+  ClockIcon,
   InboxIcon,
 } from '@heroicons/react/24/outline';
 import { lusitana } from '@/app/ui/fonts';
